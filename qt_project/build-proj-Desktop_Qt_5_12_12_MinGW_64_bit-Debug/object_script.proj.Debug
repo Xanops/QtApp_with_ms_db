@@ -1,0 +1,15 @@
+debug/adddialog.o
+debug/connectiondialog.o
+debug/main.o
+debug/mainwindow.o
+debug/modifydialog.o
+debug/printdialog.o
+debug/printgraf.o
+debug/qcustomplot.o
+debug/moc_adddialog.o
+debug/moc_connectiondialog.o
+debug/moc_mainwindow.o
+debug/moc_modifydialog.o
+debug/moc_printdialog.o
+debug/moc_printgraf.o
+debug/moc_qcustomplot.o
